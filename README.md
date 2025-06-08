@@ -34,7 +34,7 @@ Our model's performance was evaluated through this key visualizations:
 #### Prediction vs. Actual Values
 This scatter plot shows the strong correlation between our model's predictions and the actual recorded solar energy values. The tight clustering around the red "Perfect Prediction" line indicates high accuracy.
 
-![Prediction vs. Actual Plot](./images/prediction_vs_actual.png)
+![Prediction vs. Actual Plot](./prediction_vs_actual.png)
 
 ## Getting Started
 
