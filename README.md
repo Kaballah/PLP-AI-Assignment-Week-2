@@ -14,7 +14,6 @@ This project, developed for the "AI for Sustainable Development" assignment, lev
 * [Model Evaluation](#model-evaluation)
 * [Ethical Considerations](#ethical-considerations)
 * [Our Team](#our-team)
-* [License](#license)
 
 ## The Problem
 Access to reliable and affordable electricity remains a critical challenge in rural sub-Saharan Africa. According to our research, over 600 million people lack electricity access, forcing reliance on expensive and polluting alternatives like diesel generators. While solar energy is a clean and abundant solution, its inherent variability due to weather conditions makes it difficult for energy providers and NGOs to plan and deploy effective solar infrastructure, such as microgrids.
@@ -91,10 +90,10 @@ Our ethical analysis identified several key areas to ensure the responsible deve
 
 This project was a collaborative effort by Group 3:
 
-| Name      | Role                    | Github                                   |
-| --------- | ----------------------- | ---------------------------------------- |
-| Ransford  | Research Lead           | ...                                      |
-| Myra      | ML Engineer             | ...                                      |
-| Jane      | Data Scientist          | ...                                      |
-| Ronnie    | Model Developer         | ![Kaballah](https://github.com/Kaballah) |
-| Sophia    | Ethics & Impact Analyst | ...                                      |
+| Name      | Role                    | Github                                           |
+| --------- | ----------------------- | ------------------------------------------------ |
+| Ransford  | Research Lead           | ![Github Profile](https://github.com/ransfordd)  |
+| Myra      | ML Engineer             | ![Github Profile](https://github.com/Mnyaxx)     |
+| Jane      | Data Scientist          | ![Github Profile](https://github.com/janeokumbe) |
+| Ronnie    | Model Developer         | ![Github Profile](https://github.com/Kaballah)   |
+| Sophia    | Ethics & Impact Analyst | ![Github Profile](https://github.com/SWAAFIYAH)  |
